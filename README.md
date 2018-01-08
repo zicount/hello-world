@@ -2,3 +2,5 @@
 First git sample
 
 i will edit this file, so you will know why it is correct.
+
+Thank you very much!
